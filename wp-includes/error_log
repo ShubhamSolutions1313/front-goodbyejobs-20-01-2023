@@ -1,0 +1,60 @@
+[06-Dec-2022 02:47:30 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/apps1313/public_html/goodbyejobacademy.com/wp-includes/class-wp-http.php on line 11
+[06-Dec-2022 02:47:30 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/apps1313/public_html/goodbyejobacademy.com/wp-includes/class-wp-http.php on line 11
+[06-Dec-2022 02:47:30 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/apps1313/public_html/goodbyejobacademy.com/wp-includes/class-wp-http.php on line 11
+[06-Dec-2022 02:47:30 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/apps1313/public_html/goodbyejobacademy.com/wp-includes/class-wp-http.php on line 11
+[06-Dec-2022 02:47:33 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/apps1313/public_html/goodbyejobacademy.com/wp-includes/class-wp-http.php on line 11
+[06-Dec-2022 02:47:33 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/apps1313/public_html/goodbyejobacademy.com/wp-includes/class-wp-http.php on line 11
+[06-Dec-2022 02:47:33 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/apps1313/public_html/goodbyejobacademy.com/wp-includes/class-wp-http.php on line 11
+[06-Dec-2022 02:47:33 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/apps1313/public_html/goodbyejobacademy.com/wp-includes/class-wp-http.php on line 11
+[06-Dec-2022 02:47:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home/apps1313/public_html/goodbyejobacademy.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/apps1313/public_html/goodbyejobacademy.com/wp-includes/class-wp-scripts.php on line 18
+[06-Dec-2022 02:47:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home/apps1313/public_html/goodbyejobacademy.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/apps1313/public_html/goodbyejobacademy.com/wp-includes/class-wp-scripts.php on line 18
+[06-Dec-2022 02:47:39 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home/apps1313/public_html/goodbyejobacademy.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/apps1313/public_html/goodbyejobacademy.com/wp-includes/class-wp-styles.php on line 18
+[06-Dec-2022 02:47:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home/apps1313/public_html/goodbyejobacademy.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/apps1313/public_html/goodbyejobacademy.com/wp-includes/class-wp-styles.php on line 18
+[06-Dec-2022 02:47:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/apps1313/public_html/goodbyejobacademy.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/apps1313/public_html/goodbyejobacademy.com/wp-includes/template-canvas.php on line 12
+[06-Dec-2022 02:47:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/apps1313/public_html/goodbyejobacademy.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/apps1313/public_html/goodbyejobacademy.com/wp-includes/template-canvas.php on line 12
+[13-Dec-2022 06:05:45 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/apps1313/public_html/goodbyejobacademy.com/wp-includes/class-wp-http.php on line 11
+[13-Dec-2022 06:05:45 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/apps1313/public_html/goodbyejobacademy.com/wp-includes/class-wp-http.php on line 11
+[13-Dec-2022 06:05:45 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/apps1313/public_html/goodbyejobacademy.com/wp-includes/class-wp-http.php on line 11
+[13-Dec-2022 06:05:45 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/apps1313/public_html/goodbyejobacademy.com/wp-includes/class-wp-http.php on line 11
+[13-Dec-2022 06:05:59 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/apps1313/public_html/goodbyejobacademy.com/wp-includes/class-wp-http.php on line 11
+[13-Dec-2022 06:05:59 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/apps1313/public_html/goodbyejobacademy.com/wp-includes/class-wp-http.php on line 11
+[13-Dec-2022 06:05:59 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/apps1313/public_html/goodbyejobacademy.com/wp-includes/class-wp-http.php on line 11
+[13-Dec-2022 06:05:59 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/apps1313/public_html/goodbyejobacademy.com/wp-includes/class-wp-http.php on line 11
+[13-Dec-2022 06:06:04 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home/apps1313/public_html/goodbyejobacademy.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/apps1313/public_html/goodbyejobacademy.com/wp-includes/class-wp-scripts.php on line 18
+[13-Dec-2022 06:06:07 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home/apps1313/public_html/goodbyejobacademy.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/apps1313/public_html/goodbyejobacademy.com/wp-includes/class-wp-scripts.php on line 18
+[13-Dec-2022 06:06:16 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home/apps1313/public_html/goodbyejobacademy.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/apps1313/public_html/goodbyejobacademy.com/wp-includes/class-wp-styles.php on line 18
+[13-Dec-2022 06:07:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/apps1313/public_html/goodbyejobacademy.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/apps1313/public_html/goodbyejobacademy.com/wp-includes/template-canvas.php on line 12
+[13-Dec-2022 06:07:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/apps1313/public_html/goodbyejobacademy.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/apps1313/public_html/goodbyejobacademy.com/wp-includes/template-canvas.php on line 12

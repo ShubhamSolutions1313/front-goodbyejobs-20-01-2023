@@ -1,0 +1,4 @@
+[22-Dec-2022 03:37:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/apps1313/public_html/goodbyejobacademy.com/wp-includes/block-supports/spacing.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/apps1313/public_html/goodbyejobacademy.com/wp-includes/block-supports/spacing.php on line 76

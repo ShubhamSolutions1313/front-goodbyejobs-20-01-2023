@@ -1,0 +1,50 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* Add your CSS code here.
+
+For example:
+.example {
+    color: red;
+}
+
+For brushing up on your CSS knowledge, check out http://www.w3schools.com/css/css_syntax.asp
+
+End of comment */ 
+
+#trending #crypto img{
+	width: 3rem;
+	background: #A3D3FF;
+	padding:5px;
+}
+#trending #nft img{
+	width: 3rem;
+	background: #F1C9FF;
+	padding:5px;
+}
+#trending #stock img{
+	width: 3rem;
+	background: #FFB800;
+	padding:5px;
+}
+#trending #forex img{
+	width: 3rem;
+	background: #CAC9FF;
+	padding:5px;
+}
+.how-apply img{
+	margin-top: 1rem;
+}
+#blog a{
+	color:#fff;
+}
+#courses img{
+    width: 100%;
+    height: 125px!important;
+}
+ul{
+	list-style: none!important;
+}
+.course-instructor{
+	display:none!important;
+}</style>
+<!-- end Simple Custom CSS and JS -->
